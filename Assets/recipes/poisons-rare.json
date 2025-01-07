@@ -1,0 +1,547 @@
+{
+  "name": "The Umami Poisoner",
+  "description": "Contains recipes for creating rare poisons",
+  "ownership": {
+    "eICH1cEjuTy3eB6x": "2",
+    "TqAqsKKktvOuDH3l": "2",
+    "Yfql1eT2aaEIu0Ba": "2"
+  },
+  "tools": "Poisoner's Kit",
+  "ingredientsInspection": "2",
+  "productInspection": "2",
+  "recipes": [
+    {
+      "name": "Burnt Orthur Fumes",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 10 (3d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 3 (1d6) poison damage. After three successful saves, the poison ends. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.CItyIdtBRcvUkLqT",
+              "quantity": 1,
+              "name": "Ashblossom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.rBzVBi2oXmO920MD",
+              "quantity": 1,
+              "name": "Moonstalker"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.g1Qa0c6zuglbjwIU",
+              "quantity": 1,
+              "name": "Sand"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.GA2EKKnje45g2ZTR",
+              "quantity": 1,
+              "name": "Burnt Othur Fumes"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Burnt%20Othur%20Fumes.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Devil's Powder",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A hyperfine, red powder with a faintly smoky aroma, this powder is to be blown into the face of the target before dispersing harmlessly into the air. The target has to make a DC 18 Charisma Saving throw. On a failed save, the target experiences an altered version of reality where it perceives the world as a hellscape inhabited by foul creatures and becomes extremely vulnerable to intimidation, aggressive forms of persuasion and deception for 1 hour. On a successful save, the target becomes slightly paranoid and skittish. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.isOmAJP4ecyvL9Bu",
+              "quantity": "2",
+              "name": "Angel's Trumpet"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.vsYZckaJjL7Ln5Wl",
+              "quantity": 1,
+              "name": "Blight Spores"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.Yo9kTahbWe1YjOzg",
+              "quantity": 1,
+              "name": "Devil's Powder"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Devil%E2%80%99s%20Powder.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Dracula's Essence",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "To be kept in a crystal vial, this poison looks like a small vial of fresh blood, but is always in motion, seemingly trying to escape its vessel. Upon opening the vial, it falls still and turns into a rust coloured liquid. When this potion is drunk or comes in contact with the blood via an injury or injection, it forces the target to make a DC 18 Constitution saving throw...",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.MasXQenJ2XasoZJa",
+              "quantity": 1,
+              "name": "Dracula's Blood"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.AzppBItuPdWgRKVd",
+              "quantity": 1,
+              "name": "Bloodroot"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.leG8sDVrZrglVLbX",
+              "quantity": 1,
+              "name": "Red Amanita Mushroom"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.FERDVakSs58KztFr",
+              "quantity": 1,
+              "name": "Dracula's Essence"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Dracula%E2%80%99s%20Essence.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Drow Poison",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This poison is typically made only by the drow, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be Poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also Unconscious while Poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.w7Rld8yAV4ighX6J",
+              "quantity": "2",
+              "name": "Drider Poison"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.lzcsLIOHx5PKvrhu",
+              "quantity": 1,
+              "name": "Mandrake Root"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.Qo6WryZbqFNHxfud",
+              "quantity": 1,
+              "name": "Drow Poison"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Drow%20Poison.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Essence of Ether",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.yumpeR9ESjBRGj0B",
+              "quantity": "2",
+              "name": "Nightshade"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.lzcsLIOHx5PKvrhu",
+              "quantity": 1,
+              "name": "Mandrake Root"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.NgdyBUSYtMmb5RbD",
+              "quantity": 1,
+              "name": "Essence of Ether"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Essence%20of%20Ether.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Magebane",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This potion looks like red wine but smells like old boots. Upon drinking it, the consumer gains the mage slayer feat for 1 minute. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.p3wJN8AIgIqGKJMd",
+              "quantity": 1,
+              "name": "Nothic Tears"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.w7Rld8yAV4ighX6J",
+              "quantity": 1,
+              "name": "Drider Poison"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.Na8f8uHEThKPFcO4",
+              "quantity": 1,
+              "name": "Serpent's Venom"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.cR8fmQtr05NxANeL",
+              "quantity": 1,
+              "name": "Magebane"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Magebane.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Oil of Taggit",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become Poisoned for 24 hours. The Poisoned creature is Unconscious. The creature wakes up if it takes damage. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.rDaCcDrYnBTTraoX",
+              "quantity": 1,
+              "name": "Oil, Basic"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.rBzVBi2oXmO920MD",
+              "quantity": "2",
+              "name": "Moonstalker"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.3CCpeI8sqLwhsdpp",
+              "quantity": 1,
+              "name": "Oil of Taggit"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Oil%20of%20Taggit.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Thessaltoxin",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This poison was first created using blood harvested from the artificer Thessalar. A creature subjected to the poison must succeed on a DC 15 Constitution saving throw or take on a new form as if affected by the polymorph spell. The creature’s new form is a random beast or a creature it has seen within the last 24 hours (as chosen by the DM). This transformation lasts until the end of the target’s next long rest. This effect is not subject to dispel magic or remove curse, but a greater restoration spell restores the creature to its original form.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.MasXQenJ2XasoZJa",
+              "quantity": 1,
+              "name": "Dracula's Blood"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.CIo0o7mSjxfb1524",
+              "quantity": "2",
+              "name": "Black Cap Mushroom"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.rxxKQmNfAZOQxMFM",
+              "quantity": 1,
+              "name": "Thessaltoxin"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Thessaltoxin.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Torpor",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is Incapacitated. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.lzcsLIOHx5PKvrhu",
+              "quantity": "2",
+              "name": "Mandrake Root"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.GAXoXa5OMJi54Kt5",
+              "quantity": 1,
+              "name": "Lightning Moss"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.0PoHTJmJgTVY8KVX",
+              "quantity": 1,
+              "name": "Torpor"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Torpor.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Wyvern Poison",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, taking 24 (7d6) Poison damage on a failed save or half as much damage on a successful one.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.okIsTvtPYb6qFcGs",
+              "quantity": 1,
+              "name": "Wyvern Poison"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.duhj2RHveGEuQyQY",
+              "quantity": "2",
+              "name": "Idle Claws"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.13uWApX1gnCyamUI",
+              "quantity": 1,
+              "name": "Wyvern Poison"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Wyvern%20Poison.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

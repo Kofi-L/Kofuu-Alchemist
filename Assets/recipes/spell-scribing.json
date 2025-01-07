@@ -1,0 +1,467 @@
+{
+  "name": "Spell Scribing 101",
+  "description": "Contains recipes for crafting spell scrolls of any level.",
+  "ownership": {
+    "eICH1cEjuTy3eB6x": "2",
+    "TqAqsKKktvOuDH3l": "2",
+    "Yfql1eT2aaEIu0Ba": "2"
+  },
+  "tools": "",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Spell Scoll Cantrip",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.pSQwjvV6mzHsNU4G",
+              "quantity": 1,
+              "name": "Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SYpHdfvPWIUyFjba",
+              "quantity": "15",
+              "name": "Gold Coins"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.3PM1qJUeP9GvhemH",
+              "quantity": 1,
+              "name": "Spell Scroll Cantrip"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-bound-white-tan.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Spell Scroll 1st Level",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.EHbpvqNI5xnt8MTK",
+              "quantity": 1,
+              "name": "Ink, Greater"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SYpHdfvPWIUyFjba",
+              "quantity": "25",
+              "name": "Gold Coins"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.32S3daRukQ26nYTt",
+              "quantity": 1,
+              "name": "Spell Scroll 1st Level"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-bound-black-tan.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Spell Scroll 2nd Level",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.EHbpvqNI5xnt8MTK",
+              "quantity": 1,
+              "name": "Ink, Greater"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SYpHdfvPWIUyFjba",
+              "quantity": "100",
+              "name": "Gold Coins"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.f3bX79J3Eo51Rqqo",
+              "quantity": 1,
+              "name": "Spell Scroll 2nd Level"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-bound-blue-tan.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Spell Scroll 3rd Level",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.TMYE7l5HNZqr8Ipk",
+              "quantity": 1,
+              "name": "Ink, Superior"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SYpHdfvPWIUyFjba",
+              "quantity": "150",
+              "name": "Gold Coins"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.7YjTkrHjD0mhNC5F",
+              "quantity": 1,
+              "name": "Spell Scroll 3rd Level"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-bound-orange-tan.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Spell Scroll 4th Level",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.TMYE7l5HNZqr8Ipk",
+              "quantity": 1,
+              "name": "Ink, Superior"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SYpHdfvPWIUyFjba",
+              "quantity": "1000",
+              "name": "Gold Coins"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.8py1kwoJLkyMuvzk",
+              "quantity": 1,
+              "name": "Spell Scroll 4th Level"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown-grey.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Spell Scroll 5th Level",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.TMYE7l5HNZqr8Ipk",
+              "quantity": 1,
+              "name": "Ink, Superior"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SYpHdfvPWIUyFjba",
+              "quantity": "1500",
+              "name": "Gold Coins"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.BPVcmg1rAKxzh9vb",
+              "quantity": 1,
+              "name": "Spell Scroll 5th Level"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-black-red.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Spell Scroll 6th Level",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.UsMRulMEBgfgZ3oQ",
+              "quantity": 1,
+              "name": "Ink, Supreme"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SYpHdfvPWIUyFjba",
+              "quantity": "10000",
+              "name": "Gold Coins"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.tlblyvBvM1f3Og95",
+              "quantity": 1,
+              "name": "Spell Scroll 6th Level"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-orange.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Spell Scroll 7th Level",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.UsMRulMEBgfgZ3oQ",
+              "quantity": 1,
+              "name": "Ink, Supreme"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SYpHdfvPWIUyFjba",
+              "quantity": "12500",
+              "name": "Gold Coins"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.eGpezuIkwkhSx907",
+              "quantity": 1,
+              "name": "Spell Scroll 7th Level"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-black-orange.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Spell Scroll 8th Level",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.UsMRulMEBgfgZ3oQ",
+              "quantity": 1,
+              "name": "Ink, Supreme"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SYpHdfvPWIUyFjba",
+              "quantity": "15000",
+              "name": "Gold Coins"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.MzPPR5aGw2jvyk2c",
+              "quantity": 1,
+              "name": "Spell Scroll 8th Level"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-bound-gold.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-hexagram-silver-red.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

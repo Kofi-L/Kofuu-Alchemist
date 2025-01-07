@@ -1,0 +1,717 @@
+{
+  "name": "The Spicy Poisoner",
+  "description": "Contains recipes for creating uncommon poisons",
+  "ownership": {
+    "eICH1cEjuTy3eB6x": "2",
+    "TqAqsKKktvOuDH3l": "2",
+    "Yfql1eT2aaEIu0Ba": "2"
+  },
+  "tools": "Poisoner's Kit",
+  "ingredientsInspection": "2",
+  "productInspection": "2",
+  "recipes": [
+    {
+      "name": "Angel's Powder",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A hyperfine, bright white powder with a faintly sweet aroma, this powder is to be blown into the face of the target before dispersing harmlessly into the air. The target has to make a DC 15 Charisma Saving throw. On a failed save, the target experiences an altered version of reality where it perceives everyone as trusted friends and becomes extremely suggestible to non-aggressive forms of persuasion and deception as well as to seduction for 1 hour. On a successful save, the target experiences no effects.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.isOmAJP4ecyvL9Bu",
+              "quantity": 1,
+              "name": "Angel's Trumpet"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.FQAlLG8c3opTMZKG",
+              "quantity": 1,
+              "name": "Dreamlily"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.pEPq4cRocW8sIsrn",
+              "quantity": 1,
+              "name": "Angel's Powder"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Angel%20Powder.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Assassin's Blood",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is Poisoned for 24 hours. On a successful save, the creature takes half damage and isn’t Poisoned.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.rBzVBi2oXmO920MD",
+              "quantity": 1,
+              "name": "Moonstalker"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.yumpeR9ESjBRGj0B",
+              "quantity": 1,
+              "name": "Nightshade"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.mACUf2fNPGmvps1L",
+              "quantity": 1,
+              "name": "Assasin's Blood"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Assassin%E2%80%99s%20Blood.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Bane Berry Extract",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Pink and smelling like strawberries, this is a poison that forces the drinker to make a DC 14 Constitution saving throw. On a failed save, the target becomes poisoned. On a failed save, the target becomes poisoned. While poisoned, the target has a -5 penalty against Strength, Constitution and Dexterity saving throws for 15 minutes. On successful save, the target experiences no effects.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.bHJQYeEeIWFKKUB6",
+              "quantity": 1,
+              "name": "Bane Berry"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.7MrYpDV8frj2huag",
+              "quantity": 1,
+              "name": "Slaad Claw"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.JAescKxCcSclA9pq",
+              "quantity": 1,
+              "name": "Bane Berry Extract"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Bane%20Berry%20Extract.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Black Paste",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This poison was specifically designed to resemble leather or boot polish. If a piece of clothing is treated with this poison, it shines like new and forces creatures that wears it for a total of 12 hours (does not have to be consecutive) to make a DC 15 Constitution saving throw. Upon a failed save, the creature receives 1d8 poison damage. Unless the poisoned piece of clothing is removed, the creature will have to repeat making the saving throw every 12 hours for the next 3 months.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.CIo0o7mSjxfb1524",
+              "quantity": 1,
+              "name": "Black Cap Mushroom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.i1YoXsVu7eNlSBCt",
+              "quantity": 1,
+              "name": "Black Sap"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.pF0bIdvQ9sh0OrLg",
+              "quantity": 1,
+              "name": "Black Paste"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Black%20Paste.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Carrion Crawler Mucus",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to Carrion Crawler Mucus must succeed on a DC 13 Constitution saving throw or have the Poisoned condition for 1 minute. The creature also has the Paralyzed condition while Poisoned in this way. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.XulAnHwrsxkV8lxe",
+              "quantity": 1,
+              "name": "Crawler Mucus"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.7MrYpDV8frj2huag",
+              "quantity": 1,
+              "name": "Slaad Claw"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.3NyuNsjxAM97tVGP",
+              "quantity": 1,
+              "name": "Carrion Crawler Mucus"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Carrion%20Crawler%20Mucus.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Directed Delay",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This black liquid is highly viscous, having the consistency of concentrated molasses. When brought in contact with the blood via an injury or injection, the target has to make a DC 15 Wisdom saving throw. On a failed save, the target experiences the effect of the Slow spell for 1 minute and can remake the saving throw at the end of each turn. On a successful save, the target’s movement speed is reduced by 5 feet for 3 turns.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.duhj2RHveGEuQyQY",
+              "quantity": 1,
+              "name": "Idle Claws"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.pSDnimBSBI2tMAdK",
+              "quantity": 1,
+              "name": "Death Cap"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.2OBHdJd7mw6FX6du",
+              "quantity": 1,
+              "name": "Directed Delay"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Directed%20Delay.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Lava Paste",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Though a mundane looking, yellowish paste, this concoction is anything but. Once applied on skin or clothing, the paste forces the target to make a DC 14 Constitution saving throw. On a failed save, the target takes 2d6 fire damage and becomes vulnerable against fire damage for 1 occasion for the next 12 hours, on a successful save the target takes half damage and does not become vulnerable. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.it4M48HUUrl8M21Y",
+              "quantity": 1,
+              "name": "Flame Lily"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.Eu0u5dxYju2pBcGv",
+              "quantity": 1,
+              "name": "Fire Peas"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.PHavWJtXJxp57Z4J",
+              "quantity": 1,
+              "name": "Lava Paste"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Lava%20Paste.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Lolth's Sting",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to Lolth’s Sting must succeed on a DC 13 Constitution saving throw or have the Poisoned condition for 1 hour. If the creature fails the save by 5 or more, the creature also has the Unconscious condition while Poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.\nThese poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.w7Rld8yAV4ighX6J",
+              "quantity": 1,
+              "name": "Drider Poison"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.xLiJPsdawogT340f",
+              "quantity": 1,
+              "name": "Skulk Claw"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.c3SEoLacxa0xbtv1",
+              "quantity": 1,
+              "name": "Lolth's Sting"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Lolth%E2%80%99s%20Sting.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Malice",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded. These poisons are powders or gasses that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.0yu2sta3sEqhCNum",
+              "quantity": 1,
+              "name": "Morning Dew"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.i1YoXsVu7eNlSBCt",
+              "quantity": 1,
+              "name": "Black Sap"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.1VhZTNbXwB4edeIT",
+              "quantity": 1,
+              "name": "Malice"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Malice.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Pale Tincture",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 3 (1d6) poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can't be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.i1YoXsVu7eNlSBCt",
+              "quantity": 1,
+              "name": "Black Sap"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.pSDnimBSBI2tMAdK",
+              "quantity": 1,
+              "name": "Death Cap"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.58AnV41ue23eVCnB",
+              "quantity": 1,
+              "name": "Pale Tincture"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Pale%20Tincture.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Philter of Love",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.ODQqWIVNaq83Yygr",
+              "quantity": 1,
+              "name": "Fairy Stool"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.2kDZqBg2Gv6IFTL4",
+              "quantity": 1,
+              "name": "Sugar"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.fhmZ7QVPIjKywCBI",
+              "quantity": 1,
+              "name": "Philter of Love"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Philter%20of%20Love.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Poison",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This concoction looks, smells, and tastes like a Potion of Healing or another beneficial potion. However, it is actually poison masked by illusion magic. Identify reveals its true nature.\nIf you drink this potion, you take 4d6 Poison damage and must succeed on a DC 13 Constitution saving throw or have the Poisoned condition for 1 hour.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.u3Uc1ijWxlADqyGp",
+              "quantity": 1,
+              "name": "Potion of Healing"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.bHJQYeEeIWFKKUB6",
+              "quantity": 1,
+              "name": "Bane Berry"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.3aFQMt3duql8WKHb",
+              "quantity": 1,
+              "name": "Potion of Poison"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Potion%20of%20Poison.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Serpent Venom",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to Serpent Venom must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) Poison damage on a failed save or half as much damage on a successful one.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.Na8f8uHEThKPFcO4",
+              "quantity": 1,
+              "name": "Serpent's Venom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.3ns7hXv0fILz6ZnZ",
+              "quantity": 1,
+              "name": "Muroosa Bush"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.M2YM87RiAZnMJHVl",
+              "quantity": 1,
+              "name": "Serpent Venom"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Serpent%20Venom.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Truth Serum",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must succeed on a DC 12 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can’t knowingly speak a lie, as if under the effect of a zone of truth spell.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.ODQqWIVNaq83Yygr",
+              "quantity": 1,
+              "name": "Fairy Stool"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.5Ftto9gaNCN818IT",
+              "quantity": 1,
+              "name": "Mindflayer Stinkhorn"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.pxJiSyleGDerHTLd",
+              "quantity": 1,
+              "name": "Truth Serum"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Truth%20Serum.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

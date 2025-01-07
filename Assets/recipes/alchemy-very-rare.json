@@ -1,0 +1,717 @@
+{
+  "name": "The Golden Alchemist",
+  "description": "Contains recipes for crafting very rare Alchemical Concoctions",
+  "ownership": {
+    "eICH1cEjuTy3eB6x": "2",
+    "TqAqsKKktvOuDH3l": "2",
+    "Yfql1eT2aaEIu0Ba": "2"
+  },
+  "tools": "Alchemist's Supplies",
+  "ingredientsInspection": "2",
+  "productInspection": "2",
+  "recipes": [
+    {
+      "name": "Ink, Supreme",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "1 ounce bottle of ink used in writing. Sufficient for Lvl. 6-8 spell scroll crafting.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.pSQwjvV6mzHsNU4G",
+              "quantity": "2",
+              "name": "Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.8Q8M2BQhnHLFFLPp",
+              "quantity": "2",
+              "name": "Willowshade Fruit"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.DLXQhdVb66fwFsHN",
+              "quantity": 1,
+              "name": "Any Very Rare Component"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.UsMRulMEBgfgZ3oQ",
+              "quantity": 1,
+              "name": "Ink, Supreme"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/General%20Alchemy/Ink.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Oil of Sharpness",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SP1KxBD4nxF3ZchN",
+              "quantity": 1,
+              "name": "Ankheg Ichor"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.DQbz1ZzVei3TZVYc",
+              "quantity": "2",
+              "name": "Silverthorn"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.oURYgYlHDCaPHFtK",
+              "quantity": "2",
+              "name": "Eagle Claw"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.ExSyan8hgU6PCEc8",
+              "quantity": 1,
+              "name": "Oil of Sharpness"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/General%20Alchemy/Oil%20of%20Sharpness.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Oil, Dragonwound",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This oil can coat a single weapon for 3 uses, or up to 3 pieces of ammunition can be dipped in the oil for 1 use each. A dragon that takes damage from a weapon or piece of ammunition covered in the oil takes an additional 6d6 damage from the attack. The oil dries after 1 hour and becomes inert. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.gViJNGLAA24TgPxJ",
+              "quantity": "4",
+              "name": "Dragon Blood"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.rDaCcDrYnBTTraoX",
+              "quantity": 1,
+              "name": "Oil, Basic"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.cUghR7vvWXtiYWSz",
+              "quantity": 1,
+              "name": "Oil, Dragonwound"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/General%20Alchemy/Dragonwound%20Oil.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Flying",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft. This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.BVL3Fi568hb3WQDZ",
+              "quantity": "2",
+              "name": "Air Elemental Wisp"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.o6VLF03lPAKBjltR",
+              "quantity": 1,
+              "name": "Singing Nettle"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.oURYgYlHDCaPHFtK",
+              "quantity": "2",
+              "name": "Eagle Claw"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.JTiuRA27E2vI1kz4",
+              "quantity": 1,
+              "name": "Potion of Flying"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/General%20Alchemy/Potion%20of%20Flying.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Invisibility",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This potion's container looks empty but feels as though it holds liquid. When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.xLiJPsdawogT340f",
+              "quantity": "3",
+              "name": "Skulk Claw"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.ODQqWIVNaq83Yygr",
+              "quantity": "2",
+              "name": "Fairy Stool"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.s1Wu631M3ScW4zSF",
+              "quantity": 1,
+              "name": "Potion of Invisibility"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/General%20Alchemy/Potion%20of%20Invisibility.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Longevity",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "When you drink this potion, your physical age is reduced by 1d6 + 6 years, to a minimum of 13 years. Each time you subsequently drink a potion of longevity, there is a 10 percent cumulative chance that you instead age by 1d6 + 6 years. Suspended in this amber liquid are a scorpion's tail, an adder's fang, a dead spider, and a tiny heart that, against all reason, is still beating. These ingredients vanish when the potion is opened. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.KwpJ8SDYIbhwK8RF",
+              "quantity": 1,
+              "name": "Angel Tear"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.YqtBiXlWpEbwvGQs",
+              "quantity": 1,
+              "name": "Imp Heart"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.leG8sDVrZrglVLbX",
+              "quantity": "3",
+              "name": "Red Amanita Mushroom"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.q2qVgIkRmRKpj53l",
+              "quantity": 1,
+              "name": "Potion of Longevity"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/General%20Alchemy/Potion%20of%20Longevity.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Possibility",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "When you drink this clear potion, you gain two Fragments of Possibility, each of which looks like a Tiny, grayish bead of energy that follows you around, staying within 1 foot of you at all times. Each fragment lasts for 8 hours or until used. When you make an attack roll, an ability check, or a saving throw, you can expend your fragment to roll an additional d20 and choose which of the d20s to use. Alternatively, when an attack roll is made against you, you can expend your fragment to roll a d20 and choose which of the d20s to use, the one you rolled or the one the attacker rolled. If the original d20 roll has advantage or disadvantage, you roll your d20 after advantage or disadvantage has been applied to the original roll. While you have one or more Fragments of Possibility from this potion, you can’t gain another Fragment of Possibility from any source. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.xLiJPsdawogT340f",
+              "quantity": 1,
+              "name": "Skulk Claw"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.WAE0VgRO74NV2hqA",
+              "quantity": "4",
+              "name": "Ectoplasm"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.MZc5mksrT5uNZOpw",
+              "quantity": 1,
+              "name": "Potion of Possibility"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/General%20Alchemy/Potion%20of%20Possibility.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Speed",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "When you drink this potion, you gain the effect of the haste spell for 1 minute (no concentration required). The potion's yellow fluid is streaked with black and swirls on its own.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.oURYgYlHDCaPHFtK",
+              "quantity": "3",
+              "name": "Eagle Claw"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.GAXoXa5OMJi54Kt5",
+              "quantity": 1,
+              "name": "Lightning Moss"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.2kDZqBg2Gv6IFTL4",
+              "quantity": 1,
+              "name": "Sugar"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.TcIA961FoLZaknDO",
+              "quantity": 1,
+              "name": "Potion of Speed"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/General%20Alchemy/Potion%20of%20Speed.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Truesight",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Drinking this potion grants truesight with a range of 120 feet for 1 hour. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.KwpJ8SDYIbhwK8RF",
+              "quantity": 1,
+              "name": "Angel Tear"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.ODQqWIVNaq83Yygr",
+              "quantity": 1,
+              "name": "Fairy Stool"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.p3wJN8AIgIqGKJMd",
+              "quantity": "3",
+              "name": "Nothic Tears"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.Qo40Dx8K9aQKt2oI",
+              "quantity": 1,
+              "name": "Potion of Truesight"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/General%20Alchemy/Potion%20of%20Truesight.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Supreme Alchemist's Fire",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged Attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 4d6 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 16 Dexterity check to extinguish the flames.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.PlCJujsqcwCMvodK",
+              "quantity": 1,
+              "name": "Fire Elemental Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.rDaCcDrYnBTTraoX",
+              "quantity": 1,
+              "name": "Oil, Basic"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.DLXQhdVb66fwFsHN",
+              "quantity": 1,
+              "name": "Any Very Rare Component"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SzLYOy7nDl4TajFG",
+              "quantity": 1,
+              "name": "Supreme Alchemist's Fire"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/General%20Alchemy/Alchemists%20Fire.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Supreme Potion of Mana",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Vibrant blue and deeply purple, studded with dots of white and silver, this potion reminds of the night sky. When agitated, it lets out a soft, purple light. After drinking this potion, the user regains 8 Recovery Points similar to the wizard’s Arcane Recovery or regains 8 sorcery points. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.R0VEB8nQF202typd",
+              "quantity": 1,
+              "name": "Pixie's Parasol"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.DQbz1ZzVei3TZVYc",
+              "quantity": "2",
+              "name": "Silverthorn"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.gViJNGLAA24TgPxJ",
+              "quantity": 1,
+              "name": "Dragon Blood"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.I7zQVIGEshz38ASR",
+              "quantity": 1,
+              "name": "Remorhaz Ichor"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.zApVBxtBN9Z3igLu",
+              "quantity": 1,
+              "name": "Supreme Potion of Mana"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/General%20Alchemy/Potion%20of%20Mana.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Supreme Vial of Acid",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged Attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 8d6 acid damage.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.z2T6VZlDCJ1ru304",
+              "quantity": "3",
+              "name": "Grey Ooze Residue"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.XulAnHwrsxkV8lxe",
+              "quantity": 1,
+              "name": "Crawler Mucus"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.DLXQhdVb66fwFsHN",
+              "quantity": 1,
+              "name": "Any Very Rare Component"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.g0Fv3uG636MLrr69",
+              "quantity": 1,
+              "name": "Supreme Vial of Acid"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-round-corked-green.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-potion-blue.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

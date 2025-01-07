@@ -1,0 +1,417 @@
+{
+  "name": "The Flowering Herbalist",
+  "description": "Contains recipes for crafting rare potions and salves",
+  "ownership": {
+    "eICH1cEjuTy3eB6x": "2",
+    "TqAqsKKktvOuDH3l": "2",
+    "Yfql1eT2aaEIu0Ba": "2"
+  },
+  "tools": "Herbalism Kit",
+  "ingredientsInspection": "2",
+  "productInspection": "2",
+  "recipes": [
+    {
+      "name": "Elixir of Health",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "When you drink this potion, it cures any disease afflicting you, and it removes the blinded, deafened, paralyzed, and poisoned conditions. The clear red liquid has tiny bubbles of light in it. It confers no benefit to undead or constructs. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.ODQqWIVNaq83Yygr",
+              "quantity": "3",
+              "name": "Fairy Stool"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SIFRLWLWOqoNIzOj",
+              "quantity": 1,
+              "name": "Gillyweed"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.bNKDe2F3YhfvhJta",
+              "quantity": 1,
+              "name": "Elixir of Health"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Elixir%20of%20Health.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Liquid Luck",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Visually indistinguishable from water, but tasting and smelling like the drinker’s favourite fruit. Drinking this potion grants the drinker advantage on all deception, Insight and persuasion checks for 3 hours.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.zVhMwWzcq6GghUqJ",
+              "quantity": 1,
+              "name": "Rainbow Mushroom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.3ns7hXv0fILz6ZnZ",
+              "quantity": "2",
+              "name": "Muroosa Bush"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.ODQqWIVNaq83Yygr",
+              "quantity": 1,
+              "name": "Fairy Stool"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.7icVhVLiAV8t1kMK",
+              "quantity": 1,
+              "name": "Liquid Luck"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Liquid%20Luck.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Polymorph Potion",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "An almost clear, pale green potion with a constantly morphing projection of a creature floating within. Drinking this potion allows the drinker to use the Polymorph spell on themselves for 15 minutes without concentration. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.zVhMwWzcq6GghUqJ",
+              "quantity": "2",
+              "name": "Rainbow Mushroom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.FQAlLG8c3opTMZKG",
+              "quantity": 1,
+              "name": "Dreamlily"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.uR9IW0RqfRLnm3wJ",
+              "quantity": 1,
+              "name": "Underbloom"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.Q2gaPOXtLXvA4e9S",
+              "quantity": 1,
+              "name": "Polymorph Potion"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Polymorph%20Potion.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Restoration",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A purple potion with images of strands of muscle, blood veins and chunks of organ floating in it. Drinking this potion causes destroyed or missing body parts and/or organs to regrow over a period of a week. This causes severe itching and sometimes rashy pain at the sites of regrowth.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.ZohHH4t80vIxHp1q",
+              "quantity": 1,
+              "name": "Acid Dew"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.0yu2sta3sEqhCNum",
+              "quantity": 1,
+              "name": "Morning Dew"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.leG8sDVrZrglVLbX",
+              "quantity": "2",
+              "name": "Red Amanita Mushroom"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.8HyEJtfMnUKOlHmf",
+              "quantity": 1,
+              "name": "Potion of Restoration"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Potion%20of%20Restoration.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Revival",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "An entirely opaque, black potion with a point of light hanging in the middle. Drinking this potion has no effect on live people, but when poured down the throat of a person who died within a minute of administration it revives them, returning them to 1 HP. This does not work if they died of old age nor can it repair any missing body parts.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.ZohHH4t80vIxHp1q",
+              "quantity": 1,
+              "name": "Acid Dew"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.FQAlLG8c3opTMZKG",
+              "quantity": "2",
+              "name": "Dreamlily"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.duhj2RHveGEuQyQY",
+              "quantity": 1,
+              "name": "Idle Claws"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.VlNEfmL4tdKxRgWu",
+              "quantity": 1,
+              "name": "Potion of Rivival"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Potion%20of%20Revival.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Superior Healing",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "You regain 8d4 + 8 hit points when you drink this potion. The potion's red liquid glimmers when agitated. It confers no benefit to undead or constructs. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.leG8sDVrZrglVLbX",
+              "quantity": "3",
+              "name": "Red Amanita Mushroom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SZQ62HCqBfSPm31P",
+              "quantity": 1,
+              "name": "Any Rare Component"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.eL5WHMByH2t9Dx5Y",
+              "quantity": 1,
+              "name": "Potion of Superior Healing"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-round-corked-red.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Superior Life's Liquor",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This potion has a strong pink color and is completely clear with the image of a red heart floating in the middle. No matter the angle you look at it, the heart always appears the same. Drinking this potion provides 4d6+4 temporary hit points. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.leG8sDVrZrglVLbX",
+              "quantity": "2",
+              "name": "Red Amanita Mushroom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.3ns7hXv0fILz6ZnZ",
+              "quantity": 1,
+              "name": "Muroosa Bush"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.SZQ62HCqBfSPm31P",
+              "quantity": 1,
+              "name": "Any Rare Component"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.nQybLlC2gpDW9sDJ",
+              "quantity": 1,
+              "name": "Superior Life's Liquor"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Life%27s%20Liquor.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-leaf-gold-green.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

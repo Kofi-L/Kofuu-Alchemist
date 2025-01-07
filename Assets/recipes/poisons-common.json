@@ -1,0 +1,97 @@
+{
+  "name": "The Mild Poisoner",
+  "description": "Contains recipes for creating common poisons",
+  "ownership": {
+    "eICH1cEjuTy3eB6x": "2",
+    "TqAqsKKktvOuDH3l": "2",
+    "Yfql1eT2aaEIu0Ba": "2"
+  },
+  "tools": "Poisoner's Kit",
+  "ingredientsInspection": "2",
+  "productInspection": "2",
+  "recipes": [
+    {
+      "name": "Basic Poison",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the Poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.yumpeR9ESjBRGj0B",
+              "quantity": 1,
+              "name": "Nightshade"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.xwa9VnI2FRnbRgWi",
+              "quantity": 1,
+              "name": "Poison, Basic"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Basic%20Poison.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Liquid Paranoia",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature who ingests this poison is inflicted with the frightened condition, with the source of fear being the next humanoid it sees within 5 minutes of ingestion. The creature must make a DC 15 Wisdom saving throw, on a failed save the fear lasts for 1 hour or half as long on a success. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.rBzVBi2oXmO920MD",
+              "quantity": 1,
+              "name": "Moonstalker"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.BYd92v0YYZUb0YNA",
+              "quantity": 1,
+              "name": "Liquid Paranoia"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Toxicology/Liquid%20Paranoia.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

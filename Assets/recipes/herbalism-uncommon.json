@@ -1,0 +1,587 @@
+{
+  "name": "The Growing Herbalist",
+  "description": "Contains recipes for crafting uncommon potions and salves",
+  "ownership": {
+    "eICH1cEjuTy3eB6x": "2",
+    "TqAqsKKktvOuDH3l": "2",
+    "Yfql1eT2aaEIu0Ba": "2"
+  },
+  "tools": "Herbalism Kit",
+  "ingredientsInspection": "2",
+  "productInspection": "2",
+  "recipes": [
+    {
+      "name": "Blight Ichor",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This bitter chartreuse concoction is distilled from a fungus native to the Blight Shore badlands. The sickly green liqueur harbors potent psychedelic properties. Provided it is neither a construct nor undead, a creature subjected to a dose of blight ichor gains advantage on Intelligence and Wisdom checks, as well as vulnerability to psychic damage, for 1 hour. For each dose of blight ichor consumed, the creature must succeed on a DC 15 Constitution saving throw or become poisoned for 1d6 hours and suffer the effects of a confusion spell for 1 minute. An undead creature subjected to a dose of blight ichor gains advantage on all Dexterity checks and is immune to the frightened condition for 1 hour. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.vsYZckaJjL7Ln5Wl",
+              "quantity": "2",
+              "name": "Blight Spores"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.yHSA4sQ0uQ2UXCHg",
+              "quantity": 1,
+              "name": "Amphibian Saliva"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.nQHHsM7EXsyO93mZ",
+              "quantity": 1,
+              "name": "Blight Ichor"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Blight%20Ichor.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Brew of Babel",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Baby blue and highly opaque with something white moving in it, just out of view, and eyestrainingly yellow when shaken, this potion provides the ability to speak and understand, but not read or write, a language of choice for 1 hour. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.o6VLF03lPAKBjltR",
+              "quantity": "2",
+              "name": "Singing Nettle"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.tLaZKNTEAk5bgWPb",
+              "quantity": 1,
+              "name": "Soothsalt Geode"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.YAykxUrgesXWbdH5",
+              "quantity": 1,
+              "name": "Brew of Babel"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Brew%20of%20Babel.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Fire Balm",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "An orange, herbal paste used to aid people recovering from ailments. Applying a dose of this paste gives the user a +3 on a single Constitution, Wisdom or Charisma saving throw for the next 14 hours. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.it4M48HUUrl8M21Y",
+              "quantity": 1,
+              "name": "Flame Lily"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.rDaCcDrYnBTTraoX",
+              "quantity": 1,
+              "name": "Oil, Basic"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.YpuAQYYWbrz8YpzS",
+              "quantity": 1,
+              "name": "Theki Root"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.MS6VwaVh3dPmq5NM",
+              "quantity": 1,
+              "name": "Fire Balm"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Fire%20Balm.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Greater Antitoxin",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A mirky, pumpkin orange liquid, this potion grants the drinker advantage on saving throws against poison damage or against the poisoned condition for 12 hours. During this period, the drinker also does not take damage over time from any type of poison nor can they drop to 0 hit points from poison damage. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.YpuAQYYWbrz8YpzS",
+              "quantity": 1,
+              "name": "Theki Root"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.xCj5ExbOWnEx6KK9",
+              "quantity": 1,
+              "name": "Sourgrass"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.j9cXMZCsreq5fo76",
+              "quantity": 1,
+              "name": "Any Uncommon Component"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.G95Rq6vBYL6XYKi3",
+              "quantity": 1,
+              "name": "Greater Antitoxin"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Antitoxin.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Life's liquor",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This potion has a strong pink color and is completely clear with the image of a red heart floating in the middle. No matter the angle you look at it, the heart always appears the same. Drinking this potion provides 2d6+2 temporary hit points. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.leG8sDVrZrglVLbX",
+              "quantity": "2",
+              "name": "Red Amanita Mushroom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.3ns7hXv0fILz6ZnZ",
+              "quantity": 1,
+              "name": "Muroosa Bush"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.sWB1KnMNe2mh1Puz",
+              "quantity": 1,
+              "name": "Life's Liquor"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Life%27s%20Liquor.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Pomander of Warding",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This ball of aromatic spices and perfumes fills an area with a 15 foot radius with a strong scent for 24 hours after being unwrapped. Undead creatures of CR 2 or lower that enter this area must make a DC 15 Wisdom saving throw or be turned, as detailed in the Turn Undead cleric feature. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.V1SlMEnT1rGKXOvb",
+              "quantity": "3",
+              "name": "Hagfinger"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.ym4N7DiNyXCmovtK",
+              "quantity": 1,
+              "name": "Pomander of Warding"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Pomander%20of%20Warding.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Greater Healing",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "You regain 4d4 + 4 hit points when you drink this potion. The potion's red liquid glimmers when agitated. It confers no benefit to undead or constructs. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.leG8sDVrZrglVLbX",
+              "quantity": "2",
+              "name": "Red Amanita Mushroom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.j9cXMZCsreq5fo76",
+              "quantity": 1,
+              "name": "Any Uncommon Component"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.FbbosmkFp6PK09oR",
+              "quantity": 1,
+              "name": "Potion of Greater Healing"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Potion%20of%20Greater%20Healing.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Maximum Power",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "The first time you cast a damage-dealing spell of 3rd level or lower within 1 minute after drinking the potion, instead of rolling dice to determine the damage dealt, you can instead use the highest number possible for each die. This glowing purple liquid smells of sugar and plum, but it has a muddy taste.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.YpuAQYYWbrz8YpzS",
+              "quantity": 1,
+              "name": "Theki Root"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.GWGtweJaB67Km5Ta",
+              "quantity": 1,
+              "name": "Olisuba Leaf"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.FQAlLG8c3opTMZKG",
+              "quantity": 1,
+              "name": "Dreamlily"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.b1uKNmKR6EXYsm0D",
+              "quantity": 1,
+              "name": "Potion of Maximum Power"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Potion%20of%20Maximum%20Power.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Shapeshifting",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A very peculiar potion that changes its color, clarity as well as the shape and material of its container every time no one is looking at it. Upon opening the container, it reverts back to its original container and appearance; a faint pink potion with suspended slivers of silver. Drinking this potion allows the drinker to use the Alter Self spell on themselves for 30 minutes without concentration.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.zVhMwWzcq6GghUqJ",
+              "quantity": "2",
+              "name": "Rainbow Mushroom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.GWGtweJaB67Km5Ta",
+              "quantity": 1,
+              "name": "Olisuba Leaf"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.A5cG93F61Pkha1XV",
+              "quantity": 1,
+              "name": "Potion of Shapeshifting"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Potion%20of%20Shapeshifting.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Tea of Refreshment",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This warm drink removes two levels of exhaustion from whoever drinks it. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.0yu2sta3sEqhCNum",
+              "quantity": "2",
+              "name": "Morning Dew"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.bAIabmiyIINyuM3Y",
+              "quantity": 1,
+              "name": "Cat's Tongue"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.kNLRujp7Y4TWUppw",
+              "quantity": 1,
+              "name": "Tea of Refreshment"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Tea%20of%20Refreshment.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Thessaltoxin Antidote",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This potion appears to change color and texture each time you look at it. When you drink the potion, it ends the Polymorph effect imposed by thessaltoxin.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.P2QR0ICe3aASFGtO",
+              "quantity": 1,
+              "name": "Frost Lichen"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.YpuAQYYWbrz8YpzS",
+              "quantity": "2",
+              "name": "Theki Root"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.G6XYZTxRR3dpDbUB",
+              "quantity": 1,
+              "name": "Thessaltoxin Antidote"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Thessaltoxin%20Antidote.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-leaf-gold-green.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

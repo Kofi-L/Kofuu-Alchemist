@@ -1,0 +1,247 @@
+{
+  "name": "The Dankest Herbalist",
+  "description": "Contains recipes for crafting very rare potions and salves",
+  "ownership": {
+    "eICH1cEjuTy3eB6x": "2",
+    "TqAqsKKktvOuDH3l": "2",
+    "Yfql1eT2aaEIu0Ba": "2"
+  },
+  "tools": "Herbalism Kit",
+  "ingredientsInspection": "2",
+  "productInspection": "2",
+  "recipes": [
+    {
+      "name": "Potion of Protection",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A steel grey, murky liquid with tiny, yellow, green, red, blue, purple, white and black beads floating around in it. Drinking this potion grants the drinker immunity to all status effects apart from prone, grappeled, restrained or unconsious for 1 hour.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.V1SlMEnT1rGKXOvb",
+              "quantity": "2",
+              "name": "Hagfinger"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.duhj2RHveGEuQyQY",
+              "quantity": "2",
+              "name": "Idle Claws"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.TiKaLCGwkictlwt7",
+              "quantity": 1,
+              "name": "Lightning Struck Metal"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.Bk2kEuIHLuKdp5Q3",
+              "quantity": 1,
+              "name": "Potion of Protection"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Potion%20of%20Protection.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Supreme Life's Liquor",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This potion has a strong pink color and is completely clear with the image of a red heart floating in the middle. No matter the angle you look at it, the heart always appears the same. Drinking this potion provides 6d6+6 temporary hit points. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.leG8sDVrZrglVLbX",
+              "quantity": "2",
+              "name": "Red Amanita Mushroom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.3ns7hXv0fILz6ZnZ",
+              "quantity": "2",
+              "name": "Muroosa Bush"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.DLXQhdVb66fwFsHN",
+              "quantity": 1,
+              "name": "Any Very Rare Component"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.Ve4QwAbdSBlMhw2T",
+              "quantity": 1,
+              "name": "Supreme Life's Liquor"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Life%27s%20Liquor.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Supreme Healing",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "You regain 10d4 + 20 hit points when you drink this potion. The potion's red liquid glimmers when agitated. It confers no benefit to undead or constructs. ",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.leG8sDVrZrglVLbX",
+              "quantity": "4",
+              "name": "Red Amanita Mushroom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.DLXQhdVb66fwFsHN",
+              "quantity": 1,
+              "name": "Any Very Rare Component"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.bTDyzVnKkRrRccjJ",
+              "quantity": 1,
+              "name": "Potion of Supreme Healing"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Potion%20of%20Supreme%20Healing.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    },
+    {
+      "name": "Potion of Vitality",
+      "time": null,
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "When you drink this potion, it removes any exhaustion you are suffering and cures any disease or poison affecting you. For the next 24 hours, you regain the maximum number of hit points for any Hit Die you spend. The potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.0yu2sta3sEqhCNum",
+              "quantity": "2",
+              "name": "Morning Dew"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.bAIabmiyIINyuM3Y",
+              "quantity": "2",
+              "name": "Cat's Tongue"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.GWGtweJaB67Km5Ta",
+              "quantity": 1,
+              "name": "Olisuba Leaf"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kofuu-alchemist.alchemy-items.Item.pXloEiE19kopR7gY",
+              "quantity": 1,
+              "name": "Potion of Vitality"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kofuu-alchemist/Assets/Alchemical%20Items/Herbalism/Potion%20of%20Vitality.webp",
+      "sound": "",
+      "ownership": {
+        "eICH1cEjuTy3eB6x": "0",
+        "TqAqsKKktvOuDH3l": "0",
+        "Yfql1eT2aaEIu0Ba": "0"
+      }
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-leaf-gold-green.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}
