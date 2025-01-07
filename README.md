@@ -1,2 +1,2 @@
 # Kofuu-Alchemist
-this is where I will put a discription
+Homebrew Alchemist Class for D&D5e in Foundry VTT!
